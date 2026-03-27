@@ -1,5 +1,5 @@
 # Financial-analysis-pharmacy-performance-excel
-An interactive Excel financial analysis that transforms pharmaceutical data into clear business insights. By analyzing €8.6M in revenue and 446K units 0f products sold across Europe, it identifies exactly what drives a 28.04% profit margin.
+An interactive Excel financial analysis that transforms pharmaceutical data into clear business insights. By analyzing €8.6M in revenue and 446K units of products sold across Europe, it identifies exactly what drives a 28.04% profit margin.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/BOAKYE-KWARTENG/Financial-analysis-pharmacy-performance-excel/main/pharmacy-performance-dashboard-overview.png" width="100%" alt="Pharmacy Performance Dashboard">
