@@ -80,3 +80,12 @@ Optimizing the product mix toward higher-margin generic products and scaling the
 <p align="center">
   <img src="https://raw.githubusercontent.com/BOAKYE-KWARTENG/Financial-analysis-pharmacy-performance-excel/main/pharmacy-performance-dashboard-product.png" width="100%" alt="Pharmacy Performance Dashboard">
 </p>
+
+
+
+
+## Next Steps & Future Enhancements:
+
+* Predictive Analytics (Machine Learning): Integrate a Python (Scikit-Learn) model to forecast future revenue based on the 2024–2025 historical trends.
+* Analyze the correlation between store performance and local demographic data (e.g., population age) to optimize the product mix for elderly-heavy regions.
+* Conduct a Basket Analysis (Association Rules) to identify which products are frequently bought together, enabling better cross-selling strategies.
