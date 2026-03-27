@@ -57,5 +57,17 @@ SQL: Data Selection, Arithmetic Operations, Aliasing (AS), Calculated Columns, C
 Conducting a Pharmacy Financial Performance analysis provides stakeholders with critical visibility into a €8.6M sales across European markets. Through an interactive Excel dashboard, stakeholders can now self-serve regional and product-level insights, now management can easily see which countries are actually profitable or which products were just taking up shelf space. This analysis revealed that while the business maintains a healthy 28.04% profit margin, a significant 89% of revenue is generated from non-promotional sales, suggesting an untapped opportunity for volume growth. Urban pharmacies currently drive nearly half of all revenue (47.78%), and the Prescription category stands as the primary financial pillar at €2.8M. 
 
 Optimizing the product mix toward higher-margin generic products and scaling the successful Medium-sized store format across underperforming regions like Poland and Austria offers a clear path to increasing the current €2.4M total profit.
-<img width="451" height="383" alt="image" src="https://github.com/user-attachments/assets/b2448fa3-8761-4fd5-b5de-8d0f099da2db" />
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BOAKYE-KWARTENG/Financial-analysis-pharmacy-performance-excel/main/pharmacy-performance-dashboard-overview.png" width="100%" alt="Pharmacy Performance Dashboard">
+</p>
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BOAKYE-KWARTENG/Financial-analysis-pharmacy-performance-excel/main/pharmacy-performance-dashboard-GeograpicalAnalysis.png" width="100%" alt="Pharmacy Performance Dashboard">
+</p>
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BOAKYE-KWARTENG/Financial-analysis-pharmacy-performance-excel/main/pharmacy-performance-dashboard-product.png" width="100%" alt="Pharmacy Performance Dashboard">
+</p>
