@@ -1,6 +1,10 @@
 # Financial-analysis-pharmacy-performance-excel
 An interactive Excel fanancial analysis that transforms pharmaceutical data into clear business insights. By analyzing €8.6M in revenue and 446K units across Europe, it identifies exactly what drives a 28.04% profit margin.
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BOAKYE-KWARTENG/Financial-analysis-pharmacy-performance-excel/main/pharmacy-performance-dashboard-overview.png" width="100%" alt="Pharmacy Performance Dashboard">
+</p>
+
 ## Executive Summary:
 Pharmacy profit margins across Europe have been fluctuating, and there is a need to identify the specific drivers of revenue and regional performance to optimize 2026 strategy. Using Excel, Power Query, and Advanced Data Modeling, I integrated over 62K sales transactions into an interactive financial dashboard to track performance across eight countries. After identifying that the largest revenue opportunities lie in Prescription-led products and Urban market dominance, I recommend that the commercial team implements the following adjustments to achieve higher profitability:
 
@@ -10,6 +14,9 @@ Pharmacy profit margins across Europe have been fluctuating, and there is a need
 
 ## Business Problem:
 A European pharmacy chain distributor operating across multiple countries was flying blind with over €8.6M in sales. Management couldn't easily see which countries were actually profitable or which products were just taking up shelf space. Without a clear view of 62K transactions and 446K units of products, we were guessing on inventory and missing out on higher-margin opportunities. How can that mountain of raw data be turned into a clear roadmap to increase revenue and profit margins?
+
+
+## Database Design & Architecture:
 
 
 ## Methodology:
@@ -58,9 +65,7 @@ Conducting a Pharmacy Financial Performance analysis provides stakeholders with 
 
 Optimizing the product mix toward higher-margin generic products and scaling the successful Medium-sized store format across underperforming regions like Poland and Austria offers a clear path to increasing the current €2.4M total profit.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/BOAKYE-KWARTENG/Financial-analysis-pharmacy-performance-excel/main/pharmacy-performance-dashboard-overview.png" width="100%" alt="Pharmacy Performance Dashboard">
-</p>
+
 
 
 <p align="center">
