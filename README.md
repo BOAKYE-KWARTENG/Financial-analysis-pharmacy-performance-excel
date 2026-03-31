@@ -8,9 +8,9 @@ An interactive Excel financial analysis that transforms pharmaceutical data into
 ## Executive Summary:
 Pharmacy profit margins across Europe have been fluctuating, and there is a need to identify the specific drivers of revenue and regional performance to optimize 2026 strategy. Using Excel, Power Query, and Advanced Data Modeling, I integrated over 62K sales transactions into an interactive financial dashboard to track performance across eight countries. After identifying that the largest revenue opportunities lie in Prescription-led products and Urban market dominance, I recommend that the commercial team implements the following adjustments to achieve higher profitability:
 
-* **Regional Prioritization:** Scale inventory and marketing in **Germany and France**, our highest-volume revenue engines.
-* **Product Mix Optimization:** Shift focus toward **High-Margin Prescription** and **Wellness** categories while auditing the ROI of promotional sales.
-* **Store-Type Strategy:** Tailor stock levels based on **Pharmacy Type**, prioritizing the high conversion rates found in Urban and Medium sized stores.
+* **Regional Prioritization:** Scale inventory and marketing in Germany and France, our highest-volume revenue engines.
+* **Product Mix Optimization:** Shift focus toward High-Margin Prescription and Wellness categories while auditing the ROI of promotional sales.
+* **Store-Type Strategy:** Tailor stock levels based on Pharmacy Type, prioritizing the high conversion rates found in Urban and Medium sized stores.
 
 ## Business Problem:
 A European pharmacy chain distributor operating across multiple countries was flying blind with over €8.6M in sales. Management couldn't easily see which countries were actually profitable or which products were just taking up shelf space. Without a clear view of 62K transactions and 446K units of products, we were guessing on inventory and missing out on higher-margin opportunities. How can that mountain of raw data be turned into a clear roadmap to increase revenue and profit margins?
